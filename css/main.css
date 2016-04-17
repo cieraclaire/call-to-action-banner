@@ -12,6 +12,8 @@ html {
   margin: 0;
   position: absolute;
   bottom: 25%;
+  padding-top: 3rem;
+  padding-left: 1.5rem;
 }
 
 h2 {
@@ -72,6 +74,9 @@ body {
 }
 
 .btn-big {
+  position: absolute;
+  left: 17rem;
+  top: 9rem;
   font-size: 1.5rem;
   font-family: "Roboto", sans-serif;
   text-decoration: none;
